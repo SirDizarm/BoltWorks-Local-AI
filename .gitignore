@@ -1,0 +1,23 @@
+# Track release source and documentation.
+*
+!/.gitignore
+!/*.md
+!/LICENSE.txt
+!/build.ps1
+!/src/
+!/src/*.cs
+!/integration/
+!/integration/*.mjs
+!/integration/*.md
+!/integration/decompiler/
+!/integration/decompiler/*.cs
+!/integration/decompiler/*.csproj
+!/integration/decompiler/*.json
+!/integration/decompiler/*.ps1
+!/legacy/
+!/legacy/*.bat
+!/legacy/*.c
+!/legacy/*.cpp
+!/legacy/*.h
+!/legacy/*.ps1
+!/legacy/*.md
